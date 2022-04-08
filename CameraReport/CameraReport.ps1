@@ -5,7 +5,6 @@
   [string]$OutputPath
 )
 
-#Import-Module MilestonePSTools
 $connectParams = @{
   ServerAddress = $ServerAddress
   Credential    = $Credential
